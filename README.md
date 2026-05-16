@@ -37,25 +37,6 @@ Takım çalışmasına uyumlu, aynı zamanda bağımsız çalışabilen biriyim.
 
 ## 🚀 Projeler
 
-### 🟢 [GoraMC](https://www.goramc.com)
-<p align="center">
-  <img src="https://www.goramc.com/assets/core/images/uploads/1cc27fcae7437ef128c060bea0ff8463.png" width="280"/>
-</p>
-
-<p align="center">
-GoraMC, oyunculara kaliteli ve akıcı bir Minecraft deneyimi sunmayı hedefleyen gelişmiş bir sunucudur.<br>
-Trap tabanlı oynanış, özel eklentiler ve dengeli ekonomi sistemi ile öne çıkar.
-</p>
-
-<p align="center">
-Bu projede geliştirici olarak altyapıyı geliştirme ve yeni sistemler üretme üzerine çalışıyorum.
-</p>
-
-<p align="center">
-  <a href="https://www.goramc.com"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://discord.gg/GYnUpBnRRe"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-</p>
-
 ---
 
 ### 🔵 SoftTepen
