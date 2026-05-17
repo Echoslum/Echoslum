@@ -63,7 +63,9 @@ Performans ve kullanıcı deneyimi odaklı geliştirme yapılır.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Echoslum&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+[![Echoslum's GitHub stats](https://github-readme-stats.vercel.app/api?username=Echoslum&show_icons=true&theme=dark)](https://github.com/Echoslum)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Echoslum&theme=dark)](https://github.com/Echoslum)
 ---
 
 ## 🐍 Snake
