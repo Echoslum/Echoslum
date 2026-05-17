@@ -61,20 +61,20 @@ Performans ve kullanıcı deneyimi odaklı geliştirme yapılır.
 ## 📊 İstatistikler
 
 <p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Echoslum&theme=dark)](https://github.com/Echoslum)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Echoslum&theme=dark&count_private=true)](https://github.com/Echoslum)
 </p>
 
 ---
 
 ## 🐍 Snake
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Echoslum/Echoslum/output/snake.svg" alt="Snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Echoslum/Echoslum/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Echoslum/Echoslum/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Echoslum/Echoslum/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Echoslum/Echoslum/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Echoslum/Echoslum/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Echoslum/Echoslum/output/github-contribution-grid-snake.svg">
-</picture>
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364"/>
