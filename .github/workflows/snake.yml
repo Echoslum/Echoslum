@@ -17,14 +17,12 @@ jobs:
     
     steps:
       - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
-          # Hatalı parametreleri sildik.
-          # Sadece güncel yılı çekmesi için linklerin sonuna '&scope=user' ekledik.
+          github_user_name: Echoslum
           outputs: |
-            dist/github-contribution-grid-snake.svg?scope=user
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&scope=user
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
