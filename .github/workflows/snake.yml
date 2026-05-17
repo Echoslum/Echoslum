@@ -20,13 +20,11 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          # Aşağıdaki iki satır grafiği sadece son 1 yıla kilitler,
-          # böylece geçmişteki boş kutular tamamen temizlenir.
-          scope: user
-          only_current_year: true
+          # Hatalı parametreleri sildik.
+          # Sadece güncel yılı çekmesi için linklerin sonuna '&scope=user' ekledik.
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?scope=user
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&scope=user
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
